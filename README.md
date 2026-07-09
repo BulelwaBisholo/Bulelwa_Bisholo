@@ -25,7 +25,7 @@ Currently building end-to-end analytics projects focused on Finance, Banking and
 
 - https://github.com/BulelwaBisholo/data-analytics-sql-projects — Credit risk analysis and default prediction using customer and loan data.
 - https://github.com/BulelwaBisholo/Analytics-end-to-end-data-projects)  — Interactive Power BI dashboard analyzing customer churn drivers and retention trends.
-- **[Global Layoffs Analysis](#)** — SQL and Python-driven analysis of global layoff trends across industries.
+- https://github.com/BulelwaBisholo/data-analytics-sql-projects — SQL-driven analysis of global layoff trends across industries.
 
 ---
 
